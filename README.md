@@ -12,7 +12,7 @@
 
 # 🎓 About Me
 
-🎓 <em>✏️ A sentence about you and what you do.</em>
+🎓 <em>✏️ B.E CSE WITH 
 🔐 <em>✏️ A sentence about you and what you do.</em>
 💡 <em>✏️ A sentence about you and what you do.</em>
 
