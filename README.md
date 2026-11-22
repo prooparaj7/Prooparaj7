@@ -12,9 +12,9 @@
 
 # 🎓 About Me
 
-🎓 <em>✏️ B.E CSE WITH 
-🔐 <em>✏️ A sentence about you and what you do.</em>
-💡 <em>✏️ A sentence about you and what you do.</em>
+🎓 <em>✏️ B.E CSE WITH AI(SIST)
+🔐 <em>✏️ LIVING IN CHENNAI 
+💡 <em>✏️ 8+CGPA
 
 ---
 
@@ -29,32 +29,26 @@
 
 # 🏆 Achievements
 
-* 🥈 <em>✏️ Say this in your own words.</em>
-* 🥈 <em>✏️ Say this in your own words.</em>
-* 🏅 <em>✏️ Say this in your own words.</em>
-* 🌍 <em>✏️ Say this in your own words.</em>
-* 🚀 Saarthi National Hackathon
+* 🥈 <em>✏️ LINE FOLLOWER ROBOT
+* 🥈 <em>✏️ RECORD IN MAKING MANY CHATBOTS
+* 🏅 <em>✏️ HACKATHON
+
+
+
+
 
 ---
 
-# 🌱 Open Source
+# 👩‍💻 
 
-* 💖 GSSoC Contributor
-* 🎯 Hacktoberfest Contributor
-* 🔗 Open Source Connect
-
----
-
-# 👩‍💻 IEEE
-
-* 🌸 IEEE WIE Member
+* 
 * 🎤 Tech Event Organizer
 
 ---
 
 # 🧠 Skills
 
-* Python, C++, Java
+* Python, C++, Java,WORD,EXCEL,POWERPOINT,ARDUINO,WORK IN ESP2 AND DRONES
 * <em>✏️ The tools you reach for, in a sentence.</em>
 * <em>✏️ The tools you reach for, in a sentence.</em>
 * HTML, CSS, JavaScript
