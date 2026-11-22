@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, I'm prooparaj7</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Scientist&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20 ENGINEER &fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
